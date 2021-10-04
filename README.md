@@ -2,7 +2,7 @@
 
 # Making Money Heist Team
 
-This project is made with react js [Visit Here](https://hbs-edu-online.netlify.app/services).
+This project is made with react js [Visit Here](https://hbs-edu-online.netlify.app/).
 
 ## About Project
 
