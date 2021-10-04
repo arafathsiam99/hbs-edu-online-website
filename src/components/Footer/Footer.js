@@ -3,7 +3,8 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className='bg-dark d-flex mt-4 container'>
+        <div className="container">
+            <div className='bg-dark d-flex mt-4 p-4'>
             <div className="col-md-3 text-white">
                 <h1>Subject Areas</h1>
                 <p>Business Essentials</p>
@@ -34,6 +35,7 @@ const Footer = () => {
                 <p>Legal</p>
                 <p>Policies</p>
             </div>
+        </div>
         </div>
         
     );

@@ -4,7 +4,7 @@ import './AboutUs.css';
 const AboutUs = () => {
     return (
         <div className='container'>
-            <div className='custom-bg'>
+            <div>
                 <h1>About</h1>
                 <p>HBS Online offers a unique and highly engaging way to learn vital business concepts, enabling committed learners to transform their careers, their organizations, and their lives.</p>
             </div>

@@ -11,7 +11,7 @@ import Header from "./components/Header/Header";
 import Home from "./components/Home/Home";
 import MoreInfo from "./components/MoreInfo/MoreInfo";
 import NotFound from "./components/NotFound/NotFound";
-import Sections from "./components/Sections/Sections";
+import Services from "./components/Services/Services";
 
 function App() {
   return (
@@ -28,8 +28,8 @@ function App() {
           <Route exact path="/aboutus">
               <AboutUs></AboutUs>
           </Route>
-          <Route exact path='/sections'> 
-              <Sections></Sections>
+          <Route exact path='/services'> 
+              <Services></Services>
           </Route>
           <Route exact path='/moreinfo'>
               <MoreInfo></MoreInfo>

@@ -27,13 +27,13 @@ const Header = () => {
                 About Us
             </NavLink>
             <NavLink
-                to="/sections" className='nav-link'
+                to="/services" className='nav-link'
                 activeStyle=
                 {{
                   fontWeight: "bold",
                   color: "#f70d1a"
                     }}  >
-                Sections
+                Services
             </NavLink>
             <NavLink
                 to="/moreinfo" className='nav-link'

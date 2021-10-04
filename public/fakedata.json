@@ -1,42 +1,26 @@
 [
   {
+    "id":"1",
     "price": "$350",
     "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/image_1.jpg",
     "name": "Credential of Readiness (CORe)"
   },
   {
+    "id":"12",
     "price": "$380",
     "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/image_2.png",
     "name": "Design Thinking and Innovation"
   },
   {
+    "id":"123",
     "price": "$400",
     "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/image_3.jpg",
     "name": "Strategy Education"
   },
   {
+    "id":"1234",
     "price": "$350",
-    "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/images_4.jpg",
+    "picture": "https://brave-kilby-d6117e.netlify.app/images/images_5.jpg",
     "name": "Business Analytics"
-  },
-  {
-    "price": "$300",
-    "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/images_5.jpg",
-    "name": "Economics for Managers"
-  },
-  {
-    "price": "$225",
-    "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/images_6.jpg",
-    "name": "Financial Accounting"
-  },
-  {
-    "price": "$290",
-    "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/images_7.jpg",
-    "name": "Leadership Principles"
-  },
-  {
-    "price": "$250",
-    "picture": "https://615ab3b69d23933a28c99c73--brave-kilby-d6117e.netlify.app/images/iamges_8.jpg",
-    "name": "Organizational Leadership"
   }
 ]

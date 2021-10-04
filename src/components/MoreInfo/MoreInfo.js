@@ -4,11 +4,11 @@ import './MoreInfo.css'
 const MoreInfo = () => {
     return (
         <div className='container'>
-            <div className='custom-bg'>
+            <div>
                 <h1>More Info</h1>
                 <p>Harvard Business School Online offers a unique and highly engaging way to learn vital business concepts. Wherever you are in your career—or the world—we provide educational experiences that can help you achieve your personal and professional goals.</p>
             </div>
-            <div className='d-flex'>
+            <div className='d-flex mb-4'>
                 <div className='col-md-4'>
                 <h3 className='custom-head'>Learning Experience</h3>
                 <p>Our programs are designed to bring the Harvard Business School classroom to you. Find out how.</p>
