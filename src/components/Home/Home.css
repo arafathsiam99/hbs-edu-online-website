@@ -1,0 +1,24 @@
+.display {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 8px;
+}
+.custom-btn {
+  padding: 20px 40px;
+  border: none;
+  color: rgb(251, 6, 6);
+  font-size: 20px;
+}
+.top-btn {
+  padding: 20px 30px;
+  border: none;
+  color: rgb(251, 6, 6);
+  font-size: 20px;
+}
+.custom-btn:hover {
+  background-color: rgb(22, 22, 22);
+  color: white;
+}
+.custom-img {
+  width: 650px;
+}
